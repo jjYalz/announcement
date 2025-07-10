@@ -1,3 +1,4 @@
+
 // index.js — Full Discord.js bot script with complete PM reply feature
 const { 
   Client, GatewayIntentBits, Partials, PermissionsBitField, EmbedBuilder, 
